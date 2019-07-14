@@ -1,7 +1,7 @@
 {
-  "name": "draw.me",
-  "version": "0.3.1",
-  "description": "a program to draw things on command!",
+  "name": "draw.me-typescript",
+  "version": "0.0.1",
+  "description": "a program to draw things on command! written in typscript",
   "main": "app.js",
   "bin": "app.js",
   "author": "Wolfleader101",
